@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋
 
 
 
@@ -8,7 +8,7 @@
 
 ### Languages
 
-
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -33,9 +33,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soojin-p&theme=radical&bg_color=141321&hide_border=true&line=FF69B4&color=FF69B4&point=FFFFFF" width="94%" />
 </div>
 
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
 [![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwlsdlrh)](https://solved.ac/tnwlsdlrh/)

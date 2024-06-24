@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
 
-## 🛠️ Skills
+## 🛠️ Tech Stacks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

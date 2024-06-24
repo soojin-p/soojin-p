@@ -31,4 +31,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soojin-p&theme=radical&bg_color=141321&hide_border=true&line=FF69B4&color=FF69B4&point=FFFFFF" width="94%" />
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwlsdlrh)](https://solved.ac/tnwlsdlrh/)
